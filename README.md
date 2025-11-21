@@ -1,1 +1,1 @@
-https://enenen21-prog.github.io/trainer/# trainer
+https://enenen21-prog.github.io/trainer
